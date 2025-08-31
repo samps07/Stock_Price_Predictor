@@ -1,7 +1,6 @@
 # 📈 Stock Price Prediction App  
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-brightgreen?style=for-the-badge)](https://stock-price-predictor2.streamlit.app/)  
-*(Replace `YOUR_STREAMLIT_APP_URL` with your deployed Streamlit app link)*  
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-brightgreen?style=for-the-badge)](https://stock-price-predictor2.streamlit.app/)   
 
 A machine learning-powered web application built with Python, scikit-learn, and Streamlit that predicts the next-day stock price and future movement (Up/Down) of a chosen stock.  
 
@@ -37,9 +36,6 @@ The app uses historical stock data (via yfinance), trains multiple regression an
 
 ---
 
-
----
-
 ## ⚙️ How It Works
 
 1. Data Collection  
@@ -58,13 +54,6 @@ The app uses historical stock data (via yfinance), trains multiple regression an
    - Predicts next trading day’s price & direction.  
 
 ---
-
-## 🖥️ Usage
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/your-username/stock-predictor.git
-cd stock-predictor
 
 ## 📷 Screenshots
 
