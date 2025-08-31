@@ -58,15 +58,15 @@ The app uses historical stock data (via yfinance), trains multiple regression an
 ## 📷 Screenshots
 
 ### Home Page & Input Options
-![Home Page](images/home.png)
+![Home Page](stockpredictor_input_home.png)
 
 ### Prediction Results
-![Results](images/results.png)
+![Results](stockpredictor_results.png)
 
 ### Regression Models (Actual vs Predicted)
-![Regression Chart](images/regression_chart.png)
+![Regression Chart](stockpredictor_regression.png)
 
 ### Classification (Up/Down Forecast)
-![Classification Chart](images/classification_chart.png)
+![Classification Chart](stockpredictor_classification.png)
 
 
